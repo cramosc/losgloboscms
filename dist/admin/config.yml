@@ -9,6 +9,7 @@ collections:
     label: "Section"
     folder: "_sections" # The path to the folder where the documents are stored
     extension: "json"
+    format: "json"
     create: true
     slug: "{{slug}}"
     fields:

@@ -7,10 +7,12 @@ media_folder: "img"
 collections:
   - name: "section"
     label: "Section"
-    folder: "_content/section" # The path to the folder where the documents are stored
+    folder: "content/section" # The path to the folder where the documents are stored
     create: true
     slug: "{{slug}}"
     fields:
+      - {label: "Key", name: "key", widget: "string"}
+      - {label: "Menu", name: "menu", widget: "string"}
       - {label: "Title Deutsch", name: "title_de", widget: "string"}
       - {label: "Body Deutsch", name: "body_de", widget: "markdown"}
       - {label: "Title Spanisch", name: "title_es", widget: "string"}

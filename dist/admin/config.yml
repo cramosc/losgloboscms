@@ -12,7 +12,8 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Key", name: "key", widget: "string"}
-      - {label: "Menu", name: "menu", widget: "string"}
+      - {label: "Menu Deutsch", name: "menu_de", widget: "string"}
+      - {label: "Menu Spanisch", name: "menu_es", widget: "string"}
       - {label: "Title Deutsch", name: "title_de", widget: "string"}
       - {label: "Body Deutsch", name: "body_de", widget: "markdown"}
       - {label: "Title Spanisch", name: "title_es", widget: "string"}

@@ -41,14 +41,10 @@ def main():
             jsons[key]['menu_de'] = de
             jsons[key]['menu_es'] = es
 
-
     for key, content in jsons.items():
-        if len(content) < 6:
-            continue
-        with open('../_sections/'+key+'.json', 'w', encoding='utf-8') as file:
+        with open('../_sections/{}{}.json'.format(key, ''), 'w', encoding='utf-8') as file:
             j = json.dumps(content, ensure_ascii=False)
             file.write(j)
-
 
 if __name__ == '__main__':
     sys.exit(main())

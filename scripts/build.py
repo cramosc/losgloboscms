@@ -7,19 +7,6 @@ SECTIONS_DIR = '../_sections'
 JSON_FILE = '../dist/l10n.json'
 
 def main():
-
-    # data.feed.entry.forEach(function (row) {
-    #     var key = row.gsx$key.$t;
-    #
-    # ['de', 'es'].forEach(function (lan) {
-    #     l10n[lan][key] = row['gsx$'+lan].$t.trim();
-    #
-    # if (key.endsWith('body')) {
-    # l10n[lan][key] = ('<p>' + l10n[lan][key].replace(/\n *\n/g, '</p><p>') + '</p>')
-    # .replace(/\n/g, '<br>');
-    # }
-    # });
-    # });
     l10n = {'es': {}, 'de': {}}
     for file in os.listdir(SECTIONS_DIR):
         if file.endswith('.json'):

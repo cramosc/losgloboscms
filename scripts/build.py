@@ -3,8 +3,12 @@ import re
 import sys
 import os
 
-SECTIONS_DIR = '../_sections'
-JSON_FILE = '../dist/l10n.json'
+from os.path import dirname, abspath, join
+
+ROOT_DIR = dirname(dirname(abspath(__file__)))
+
+SECTIONS_DIR = join(ROOT_DIR, '_sections')
+JSON_FILE = join(ROOT_DIR, 'dist', 'l10n.json')
 
 def main():
     l10n = {'es': {}, 'de': {}}

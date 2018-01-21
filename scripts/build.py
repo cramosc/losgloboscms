@@ -2,6 +2,7 @@ import json
 import re
 import sys
 import os
+import markdown2
 
 from os.path import dirname, abspath, join
 
@@ -9,6 +10,10 @@ ROOT_DIR = dirname(dirname(abspath(__file__)))
 
 SECTIONS_DIR = join(ROOT_DIR, '_sections')
 JSON_FILE = join(ROOT_DIR, 'dist', 'l10n.json')
+
+def markdown_to_html(md):
+    html = re.sub(r'</?p>', '', markdown2.markdown(md.strip()))
+    return re.sub('\n', '', html)
 
 def main():
     l10n = {'es': {}, 'de': {}}
@@ -24,8 +29,8 @@ def main():
                         l10n[lan][f'{key}_title'] = section[f'title_{lan}']
                     if f'body_{lan}' in section:
                         body = section[f'body_{lan}']
-                        body = re.sub(r'\n *\n', '</p><p>', body)
-                        body = re.sub(r'\n', '<br>', body)
+                        body = '<br>'.join([markdown_to_html(p) for p in body.split('\n')])
+                        body = re.sub(r'(?<!<br>)<br><br>', '</p><p>', body)
                         l10n[lan][f'{key}_body'] = f'<p>{body}</p>'
 
     with open(JSON_FILE, 'w', encoding='utf-8') as f:

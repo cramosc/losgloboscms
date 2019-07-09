@@ -29,9 +29,8 @@ def main():
                         l10n[lan][f'{key}_title'] = section[f'title_{lan}']
                     if f'body_{lan}' in section:
                         body = section[f'body_{lan}']
-                        body = '<br>'.join([markdown_to_html(p) for p in body.split('\n')])
-                        body = re.sub(r'(?<!<br>)<br><br>', '</p><p>', body)
-                        l10n[lan][f'{key}_body'] = f'<p>{body}</p>'
+                        body = markdown2.markdown(body.strip())
+                        l10n[lan][f'{key}_body'] = body
 
     with open(JSON_FILE, 'w', encoding='utf-8') as f:
         f.write(json.dumps(l10n, ensure_ascii=False))

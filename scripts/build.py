@@ -1,5 +1,4 @@
 import json
-import re
 import sys
 import os
 import markdown2
@@ -10,10 +9,6 @@ ROOT_DIR = dirname(dirname(abspath(__file__)))
 
 SECTIONS_DIR = join(ROOT_DIR, '_sections')
 JSON_FILE = join(ROOT_DIR, 'dist', 'l10n.json')
-
-def markdown_to_html(md):
-    html = re.sub(r'</?p>', '', markdown2.markdown(md.strip()))
-    return re.sub('\n', '', html)
 
 def main():
     l10n = {'es': {}, 'de': {}}

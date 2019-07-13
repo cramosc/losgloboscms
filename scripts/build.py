@@ -19,12 +19,12 @@ def main():
                 section=json.load(f)
                 key = section['title']
 
-                menu = section[f'menu_{lan}']
-                title = section.get(f'title_{lan}', '')
-                body = section.get(f'body_{lan}', '')
-                body = markdown2.markdown(body.strip())
-
                 for lan in 'de', 'es':
+                    menu = section[f'menu_{lan}']
+                    title = section.get(f'title_{lan}', '')
+                    body = section.get(f'body_{lan}', '')
+                    body = markdown2.markdown(body.strip())
+
                     if key.startswith('job_'):
                         l10n[lan]['jobs'].append({
                             'menu': menu,

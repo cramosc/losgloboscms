@@ -12,7 +12,7 @@ JSON_FILE = join(ROOT_DIR, 'dist', 'l10n.json')
 
 
 def main():
-    l10n = {'es': {'jobs': []}, 'de': {'jobs': []}}
+    l10n = {'es': {'job_sections': []}, 'de': {'job_sections': []}}
     for file in os.listdir(SECTIONS_DIR):
         if file.endswith('.json'):
             with open(os.path.join(SECTIONS_DIR, file), 'r') as f:
@@ -26,7 +26,7 @@ def main():
                     body = markdown2.markdown(body.strip())
 
                     if key.startswith('job_'):
-                        l10n[lan]['jobs'].append({
+                        l10n[lan]['job_sections'].append({
                             'menu': menu,
                             'title': title,
                             'body': body

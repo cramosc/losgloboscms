@@ -22,8 +22,8 @@ def main():
                 for lan in 'de', 'es':
                     menu = section[f'menu_{lan}']
                     title = section.get(f'title_{lan}', '')
-                    body = section.get(f'body_{lan}', '')
-                    body = markdown2.markdown(body.strip())
+                    body = section.get(f'body_{lan}', '').strip()
+                    body = body and markdown2.markdown(body)
 
                     if key.startswith('job_'):
                         l10n[lan]['job_sections'][key[len('job_'):]] = {

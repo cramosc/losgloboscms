@@ -23,7 +23,7 @@ def main():
                     menu = section[f'menu_{lan}']
                     title = section.get(f'title_{lan}', '')
                     body = section.get(f'body_{lan}', '').strip()
-                    body = body and markdown2.markdown(body)
+                    body = body and markdown2.markdown(body, extras=["tables"])
 
                     if key.startswith('job_'):
                         l10n[lan]['job_sections'][key[len('job_'):]] = {

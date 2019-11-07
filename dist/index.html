@@ -8,6 +8,8 @@
     <link href="https://fonts.googleapis.com/css?family=Dosis|Amatica+SC" rel="stylesheet">
     <link href="/losglobos.css" rel="stylesheet">
 
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
     <script type="text/javascript" src="/vendor/handlebars.min-latest.js" defer></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js" defer></script>
     <script src="/l10n.js" defer></script>
@@ -769,5 +771,17 @@ Holzstraße 39 <br />
 </footer>
 </div>
 
+
+<script>
+    if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+            if (!user) {
+            window.netlifyIdentity.on("login", () => {
+                document.location.href = "/admin/";
+        });
+        }
+    });
+    }
+</script>
 </body>
 </html>

@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Los Globos e.V. - Jobs</title>
+    <meta name="description" content="Deutsch-spanische Elterninitiative" />
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Dosis|Amatica+SC" rel="stylesheet">
+    <link href="/losglobos.css" rel="stylesheet">
+
+    <script type="text/javascript" src="/vendor/handlebars.min-latest.js" defer></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js" defer></script>
+    <script src="/l10n.js" defer></script>
+    <script src="/index.js" defer></script>
+</head>
+
+<body>
+<script id="losglobos-template" type="text/x-handlebars-template">
+    <div id="header">
+    <a id="header-logo-container" href="/"><img id="header-logo" src="/img/logo.jpg" alt="Los Globos e.V."></a>
+    <button type="button" class="navbar-toggle-mobile">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+    </button>
+    <nav class="header-nav">
+        <a class="nav-item" id="language">{{ switch_language }}</a>
+    </nav>
+</div>
+<div id="container">
+    <div id="hero-area">
+    </div>
+    <div id="content">
+
+        <div class="section" id="start">
+            <nav>
+                {{#each job_sections}}
+                <a class="nav-item" href="#job{{@key}}">{{this.menu}}</a>
+                {{/each}}
+            </nav>
+        </div>
+
+        {{#each job_sections}}
+        <div class="section" id="job{{@key}}">
+            <nav>
+                <a class="nav-item" href="#start">{{ @root.jobs }}</a>
+            </nav>
+
+            <div class="section-body">
+                {{{ this.body }}}
+            </div>
+        </div>
+        {{/each}}
+
+    </div>
+</div>
+</script>
+
+<div id="content-placeholder">
+    <div id="header">
+    <a id="header-logo-container" href="/"><img id="header-logo" src="/img/logo.jpg" alt="Los Globos e.V."></a>
+    <button type="button" class="navbar-toggle-mobile">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+    </button>
+    <nav class="header-nav">
+        <a class="nav-item" id="language">Español</a>
+    </nav>
+</div>
+<div id="container">
+    <div id="hero-area">
+    </div>
+    <div id="content">
+
+        <div class="section" id="start">
+            <nav>
+                <a class="nav-item" href="#job1">Erzieher/-in</a>
+                <a class="nav-item" href="#job2">Kinderpfleger/-in</a>
+                <a class="nav-item" href="#job3">SPS-Praktikant/in</a>
+                <a class="nav-item" href="#job4">Praktikant/in</a>
+                <a class="nav-item" href="#job5">Aushilfe</a>
+            </nav>
+        </div>
+
+        <div class="section" id="job1">
+            <nav>
+                <a class="nav-item" href="#start">Jobs</a>
+            </nav>
+
+            <div class="section-body">
+                <!-- Unsere deutsch-spanische Kindertagesstätte Los Globos e.V. sucht zum nächstmöglichen Zeitpunkt eine/n -->
+
+<h3>Derzeit gibt es keine offenen Stellen.</h3>
+
+<p>Gerne kannst du dich aber initiativ bewerben, wenn dir folgende Aufgaben zusprechen:</p>
+
+<h2>Erzieher/-in (w, m, d in Vollzeit 39h/Woche)</h2>
+
+<h3>Das bieten wir Dir:</h3>
+
+<ul>
+<li>eine interessante und abwechslungsreiche Tätigkeit mit hoher Eigenverantwortung und vielfachen Entwicklungs- und Gestaltungsmöglichkeiten</li>
+<li>kleine Gruppen</li>
+<li>Arbeiten in einem herzlichen und multikulturellen Team</li>
+<li>nette Elternschaft aus verschiedenen Ländern</li>
+<li>unterschiedliche Projekte mit viel Raum für Deine Ideen und Vorschläge</li>
+<li>einen überdurchschnittlichen Betreuungsschlüssel</li>
+<li>tarifliche Vergütung inkl. Sozialleistungen (TVÖD Land)</li>
+</ul>
+
+<h3>Das bringst Du mit:</h3>
+
+<ul>
+<li>eine staatlich abgeschlossene Ausbildung als Erzieher/in oder Kinderpfleger/in</li>
+<li>Du legst großen Wert auf Teamwork und ein gutes Betriebsklima</li>
+<li>Ausgezeichnete Deutsch-oder Spanischkenntnisse</li>
+</ul>
+
+<h3>Das werden Deine Aufgaben:</h3>
+
+<ul>
+<li>Arbeit sowohl im Kindergarten als auch in der Krippengruppe</li>
+</ul>
+
+<p>Bitte sende uns Deine aussagefähige Bewerbung ausschließlich in digitaler Form an:</p>
+
+<p><a href="mailto:jobs@losglobos.de">jobs@losglobos.de</a></p>
+
+<p>Von Bewerbungen die nicht dem angeforderten Profil entsprechen bitten wir abzusehen.</p>
+
+            </div>
+        </div>
+        <div class="section" id="job2">
+            <nav>
+                <a class="nav-item" href="#start">Jobs</a>
+            </nav>
+
+            <div class="section-body">
+                <p>Unsere deutsch-spanische Kindertagesstätte Los Globos e.V. sucht zum nächstmöglichen Zeitpunkt eine/n</p>
+
+<h2>Kinderpfleger/-in (w, m, d in Vollzeit 39h/Woche)</h2>
+
+<h3>Das bieten wir Dir:</h3>
+
+<ul>
+<li>eine interessante und abwechslungsreiche Tätigkeit mit hoher Eigenverantwortung und vielfachen Entwicklungs- und Gestaltungsmöglichkeiten</li>
+<li>kleine Gruppen</li>
+<li>Arbeiten in einem herzlichen und multikulturellen Team</li>
+<li>nette Elternschaft aus verschiedenen Ländern</li>
+<li>unterschiedliche Projekte mit viel Raum für Deine Ideen und Vorschläge</li>
+<li>einen überdurchschnittlichen Betreuungsschlüssel</li>
+<li>tarifliche Vergütung inkl. Sozialleistungen (TVÖD Land)</li>
+</ul>
+
+<h3>Das bringst Du mit:</h3>
+
+<ul>
+<li>eine staatlich abgeschlossene Ausbildung als Erzieher/in oder Kinderpfleger/in</li>
+<li>Du legst großen Wert auf Teamwork und ein gutes Betriebsklima</li>
+<li>Ausgezeichnete Deutsch-oder Spanischkenntnisse</li>
+</ul>
+
+<h3>Das werden Deine Aufgaben:</h3>
+
+<ul>
+<li>Arbeit sowohl im Kindergarten als auch in der Krippengruppe</li>
+</ul>
+
+<p>Bitte sende uns Deine aussagefähige Bewerbung ausschließlich in digitaler Form an:</p>
+
+<p><a href="mailto:jobs@losglobos.de">jobs@losglobos.de</a></p>
+
+<p>Von Bewerbungen die nicht dem angeforderten Profil entsprechen bitten wir abzusehen.</p>
+
+            </div>
+        </div>
+        <div class="section" id="job3">
+            <nav>
+                <a class="nav-item" href="#start">Jobs</a>
+            </nav>
+
+            <div class="section-body">
+                <p>Für unsere deutsch-spanische KiTa in der Münchner Isarvorstadt suchen wir ab September eine Praktikantin/einen Praktikanten (Sozialpädagogisches Seminar).</p>
+
+<p>Unsere Einrichtung betreut 24 Kinder im Alter von 1 bis 6 Jahren.
+Die Kinder kommen aus bilingualen Familien, in denen deutsch und spanisch gesprochen wird.
+Unsere PädagogInnen – drei deutschsprachige und zwei spanischsprachige Kräfte - arbeiten nach dem Immersionsprinzip: jede/jeder spricht ihre/seine Muttersprache.</p>
+
+<p>Wir gehen gerne raus, machen Ausflüge ins Museum/Theater, tanzen, singen und spielen mit den Kindern. Humor und ein liebevoller Umgang mit jedem einzelnen Kind ist uns besonders wichtig. 
+Unser Konzept und weitere Informationen findest Du auf unserer Homepage.</p>
+
+<p>Wir freuen uns über motivierte BewerberInnen: Die Teamsprache ist deutsch, es ist also kein Problem, wenn Du nicht spanisch sprichst.</p>
+
+<h3>Was Du mitbringst:</h3>
+
+<ul>
+<li>Flexibilität, Teamgeist und Humor</li>
+<li>Interesse an interkultureller Arbeit</li>
+<li>Freude an der Zusammenarbeit mit den Eltern</li>
+<li>und vor allem ganz viel Herz und Humor in der täglichen Arbeit mit den Kindern</li>
+</ul>
+
+<h3>Was wir bieten:</h3>
+
+<ul>
+<li>eine Bezahlung nach TVÖD zzgl. München-Zuschlag und Jahressonderzahlung</li>
+<li>eine qualifizierte Anleitung mit ausreichend Zeit</li>
+<li>genug Zeit zur Vor- und Nachbereitung der Arbeit</li>
+<li>regelmäßige Teamgespräche und Supervision</li>
+<li>einen Arbeitsplatz in einem multikulturellen Team mit Humor und Spaß an der Arbeit</li>
+<li>einen überdurchschnittlichen Betreuungsschlüssel mit genug Zeit für die einzelnen Kinder (24 Kinder mit fünf BetreuerInnen)</li>
+</ul>
+
+<p>Bitte sende Deine aussagekräftige Bewerbung per E-Mail an:</p>
+
+<p><a href="mailto:jobs@losglobos.de">jobs@losglobos.de</a></p>
+
+<p>Wir freuen uns auf Dich!</p>
+
+            </div>
+        </div>
+        <div class="section" id="job4">
+            <nav>
+                <a class="nav-item" href="#start">Jobs</a>
+            </nav>
+
+            <div class="section-body">
+                <p>Gerne kannst du dich für ein Praktikum bei uns bewerben (Erasmus, Schülerpraktikum etc.).
+Schicke uns einfach einen Lebenslauf und wir setzen uns gerne mit dir in Verbindung.</p>
+
+<p>Unsere Einrichtung betreut 24 Kinder im Alter von 1 bis 6 Jahren.
+Die Kinder kommen aus bilingualen Familien, in denen deutsch und spanisch gesprochen wird.
+Unsere PädagogInnen – drei deutschsprachige und zwei spanischsprachige Kräfte - arbeiten nach dem Immersionsprinzip: jede/jeder spricht ihre/seine Muttersprache.</p>
+
+<p>Wir gehen gerne raus, machen Ausflüge ins Museum/Theater, tanzen, singen und spielen mit den Kindern. Humor und ein liebevoller Umgang mit jedem einzelnen Kind ist uns besonders wichtig. 
+Unser Konzept und weitere Informationen findest Du auf unserer Homepage.</p>
+
+<p>Wir freuen uns über motivierte BewerberInnen: Die Teamsprache ist deutsch, es ist also kein Problem, wenn Du nicht spanisch sprichst.</p>
+
+<p>Bitte sende Deine aussagekräftige Bewerbung per E-Mail an:</p>
+
+<p><a href="mailto:jobs@losglobos.de">jobs@losglobos.de</a></p>
+
+<p>Wir freuen uns auf Dich!</p>
+
+            </div>
+        </div>
+        <div class="section" id="job5">
+            <nav>
+                <a class="nav-item" href="#start">Jobs</a>
+            </nav>
+
+            <div class="section-body">
+                <p>Wir suchen jederzeit flexible und nette Aushilfen, die im Krankheitsfall in unserer KITA aushelfen.
+Hierfür brauchst du keine pädagogische Ausbildung, nur Freude an der Arbeit mit Kindern.
+Deutschkenntnisse sind dafür nicht erforderlich, falls du nur spanisch kannst.</p>
+
+<p>Unsere Einrichtung betreut 24 Kinder im Alter von 1 bis 6 Jahren.
+Die Kinder kommen aus bilingualen Familien, in denen deutsch und spanisch gesprochen wird.
+Unsere PädagogInnen – drei deutschsprachige und zwei spanischsprachige Kräfte - arbeiten nach dem Immersionsprinzip: jede/jeder spricht ihre/seine Muttersprache.</p>
+
+<p>Wir gehen gerne raus, machen Ausflüge ins Museum/Theater, tanzen, singen und spielen mit den Kindern. Humor und ein liebevoller Umgang mit jedem einzelnen Kind ist uns besonders wichtig. 
+Unser Konzept und weitere Informationen findest Du auf unserer Homepage.</p>
+
+<p>Wir freuen uns über motivierte BewerberInnen: Die Teamsprache ist deutsch, es ist also kein Problem, wenn Du nicht spanisch sprichst.</p>
+
+<p>Bitte sende Deine aussagekräftige Bewerbung per E-Mail an:</p>
+
+<p><a href="mailto:jobs@losglobos.de">jobs@losglobos.de</a></p>
+
+<p>Wir freuen uns auf Dich!</p>
+
+            </div>
+        </div>
+
+    </div>
+</div>
+</div>
+
+</body>
+</html>

@@ -9,6 +9,7 @@ ROOT_DIR = dirname(dirname(abspath(__file__)))
 
 SECTIONS_DIR = join(ROOT_DIR, '_sections')
 JSON_FILE = join(ROOT_DIR, 'dist', 'l10n.json')
+JS_FILE = join(ROOT_DIR, 'dist', 'l10n.js')
 
 
 def main():
@@ -38,6 +39,8 @@ def main():
 
     with open(JSON_FILE, 'w', encoding='utf-8') as f:
         f.write(json.dumps(l10n, ensure_ascii=False))
+    with open(JS_FILE, 'w', encoding='utf-8') as f:
+        f.write(f'var l10n = {json.dumps(l10n, ensure_ascii=False)}')
 
 
 if __name__ == '__main__':

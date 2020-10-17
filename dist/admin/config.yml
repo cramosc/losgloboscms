@@ -4,6 +4,8 @@ backend:
 
 media_folder: "img"
 
+logo_url: http://losglobos.de/img/logo.jpg
+
 collections:
   - name: "section"
     label: "Section"

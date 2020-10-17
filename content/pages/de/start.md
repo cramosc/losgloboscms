@@ -1,5 +1,5 @@
 ---
-key: start
+key: home
 menu: Start
 title: Herzlich Willkommen bei Los Globos, der spanisch-deutschen
   Kindertagesstätte im Münchener Glockenbachviertel

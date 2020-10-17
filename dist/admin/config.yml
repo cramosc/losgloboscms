@@ -36,4 +36,4 @@ collections:
             fields:
               - {label: Key, name: key, widget: string}
               - {label: Español, name: spanish, widget: string}
-              - {label: Deutsch, name: german, widget: image}
+              - {label: Deutsch, name: german, widget: string}

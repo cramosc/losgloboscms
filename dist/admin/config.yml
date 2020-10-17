@@ -36,3 +36,29 @@ collections:
             fields: 
               - {label: "Español", name: "spanish", widget: "string"}
               - {label: "Deutsch", name: "german", widget: "string"}
+
+  - name: "pages_spanish"
+    label: "Páginas en español"
+    folder: "content/pages/es"
+    format: "frontmatter"
+    identifier_field: "key"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Key", name: "key", widget: "string"}
+      - {label: "Menu entry", name: "menu", widget: "string"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "pages_deutsch"
+    label: "Seiten auf Deutsch"
+    folder: "content/pages/de"
+    format: "frontmatter"
+    identifier_field: "key"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Key", name: "key", widget: "string"}
+      - {label: "Menu entry", name: "menu", widget: "string"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}

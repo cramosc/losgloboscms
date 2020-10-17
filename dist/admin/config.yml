@@ -22,3 +22,18 @@ collections:
       - {label: "Body Deutsch", name: "body_de", widget: "markdown"}
       - {label: "Title Spanisch", name: "title_es", widget: "string"}
       - {label: "Body Spanisch", name: "body_es", widget: "markdown"}
+
+  - label: "Menu"
+    name: "menu"
+    files:
+      - label: "Menu entries"
+        name: "menu"
+        file: "content/menu.yml"
+        fields:
+          - label: Entry
+            name: entry
+            widget: list
+            fields:
+              - {label: Key, name: key, widget: string}
+              - {label: Español, name: spanish, widget: string}
+              - {label: Deutsch, name: german, widget: image}

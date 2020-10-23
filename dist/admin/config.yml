@@ -47,8 +47,8 @@ collections:
     fields:
       - {label: "Key", name: "key", widget: "string"}
       - {label: "Menu entry", name: "menu", widget: "string"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Title", name: "title", widget: "string", required: false}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
 
   - name: "pages_deutsch"
     label: "Seiten auf Deutsch"
@@ -60,5 +60,5 @@ collections:
     fields:
       - {label: "Key", name: "key", widget: "string"}
       - {label: "Menu entry", name: "menu", widget: "string"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Title", name: "title", widget: "string", required: false}
+      - {label: "Body", name: "body", widget: "markdown", required: false}

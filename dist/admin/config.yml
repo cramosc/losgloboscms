@@ -62,3 +62,17 @@ collections:
       - {label: "Menu entry", name: "menu", widget: "string"}
       - {label: "Title", name: "title", widget: "string", required: false}
       - {label: "Body", name: "body", widget: "markdown", required: false}
+
+  - name: "News"
+    label: "Aktuelles/Novedades"
+    files:
+      - label: "Aktuelles/Novedades"
+        name: "news"
+        file: "content/news.yml"
+        fields:
+          - label: "News"
+            name: "news"
+            widget: "list"
+            fields: 
+              - {label: "Español", name: "spanish", widget: "markdown"}
+              - {label: "Deutsch", name: "german", widget: "markdown"}

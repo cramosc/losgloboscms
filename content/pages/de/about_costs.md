@@ -26,13 +26,13 @@ title: Unsere Kosten
 
    Fälligkeit 2 Wochen vor Betreuungsbeginn:
 
-                        &nbsp;       | Euro   | Bemerkung                        
+   Zweck                             | Euro   | Bemerkung                        
    ----------------------------------|--------|----------------------------------
    Kaution Holzstr. 39               | 312,50 | Wird nach Austritt zurückgegeben 
 
    Fälligkeit 2 Wochen nach Vertragsunterschrift:
 
-                       &nbsp;        | Euro   | Bemerkung                        
+   Zweck                             | Euro   | Bemerkung                        
    ----------------------------------|--------|----------------------------------
    Kaution für Elternbeitragsausfall | 340    | Wird nach Austritt zurückgegeben 
    Einzahlung in die Rücklagen       | 100    | Wird vom Verein einbehalten      

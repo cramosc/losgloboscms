@@ -26,13 +26,13 @@ title: Nuestros Precios
 
    Vencimiento 2 semanas antes del inicio del cuidado del niño:
 
-                          &nbsp;     | Euro   | Observación                        
+   Objetivo                          | Euro   | Observación                        
    ----------------------------------|--------|----------------------------------
    Fianza para el local en Holzstraße 39               | 312,50 | Se devuelve tras la salida de la asociación
 
    Vencimiento hasta 2 semanas despues de la firma del contrato:
 
-                    &nbsp;           | Euro   | Observación                        
+   Objetivo                          | Euro   | Observación                        
    ----------------------------------|--------|----------------------------------
    Fianza para la cobertura en caso de falta de cobro | 340    | Se devuelve tras la salida de la asociación 
    Contribución a las reservas       | 100    | Se mantienen en la asociación      

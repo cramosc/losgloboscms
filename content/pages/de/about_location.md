@@ -1,5 +1,6 @@
 ---
 key: about_location
+order: 25
 menu: Unser Standort
 title: Unser Standort
 ---

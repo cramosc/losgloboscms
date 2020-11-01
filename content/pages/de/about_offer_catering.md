@@ -1,5 +1,6 @@
 ---
 key: about_offer_catering
+order: 213
 menu: Verpflegung
 title: Verpflegung
 ---

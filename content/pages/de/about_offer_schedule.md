@@ -1,5 +1,6 @@
 ---
 key: about_offer_schedule
+order: 212
 menu: Betreuungszeiten
 title: Betreuungszeiten
 ---

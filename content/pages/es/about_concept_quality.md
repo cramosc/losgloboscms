@@ -1,5 +1,6 @@
 ---
 key: about_concept_quality
+order: 223
 menu: Garantía de calidad
 title: Garantía de calidad
 ---

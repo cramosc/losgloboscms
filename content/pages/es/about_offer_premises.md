@@ -1,5 +1,6 @@
 ---
 key: about_offer_premises
+order: 211
 menu: Instalaciones
 title: Instalaciones
 ---

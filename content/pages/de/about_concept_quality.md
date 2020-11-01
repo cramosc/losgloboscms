@@ -1,5 +1,6 @@
 ---
 key: about_concept_quality
+order: 223
 menu: Qualitätssicherung
 title: Qualitätssicherung
 ---

@@ -1,5 +1,6 @@
 ---
 key: donations
+order: 6
 menu: Spenden
 ---
 # So können Sie uns Helfen

@@ -1,5 +1,6 @@
 ---
 key: donations
+order: 6
 menu: Donativos
 ---
 # So können Sie uns Helfen

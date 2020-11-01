@@ -1,5 +1,6 @@
 ---
 key: about_offer
+order: 21
 menu: Unser Angebot
 title: Unser Angebot
 ---

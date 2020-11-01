@@ -1,5 +1,6 @@
 ---
 key: jobs_1
+order: 51
 menu: Erzieher/-in
 title: Erzieher/-in (in Vollzeit 39h/Woche)
 ---

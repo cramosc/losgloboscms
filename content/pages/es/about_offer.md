@@ -1,5 +1,6 @@
 ---
 key: about_offer
+order: 21
 menu: Nuestra Oferta
 title: Qué ofrecemos.
 ---

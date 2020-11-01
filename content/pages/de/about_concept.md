@@ -1,5 +1,6 @@
 ---
 key: about_concept
+order: 22
 menu: Unser Konzept
 title: Unser Konzept
 ---

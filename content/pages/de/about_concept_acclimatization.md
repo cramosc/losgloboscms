@@ -1,5 +1,6 @@
 ---
 key: about_concept_acclimatization
+order: 222
 menu: Eingewöhnung
 title: Eingewöhnung
 ---

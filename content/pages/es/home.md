@@ -1,5 +1,6 @@
 ---
 key: home
+order: 1
 menu: Inicio
 title: ¡Bienvenido a Los Globos!, la guardería hispano-alemana en el centro de Múnich
 ---

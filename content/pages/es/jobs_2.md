@@ -1,5 +1,6 @@
 ---
 key: jobs_2
+order: 52
 menu: Kinderpfleger/-in
 title: Kinderpfleger/-in (in Vollzeit 39h/Woche)
 ---

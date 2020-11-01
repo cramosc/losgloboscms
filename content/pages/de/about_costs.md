@@ -1,5 +1,6 @@
 ---
 key: about_costs
+order: 24
 menu: Unsere Kosten
 title: Unsere Kosten
 ---

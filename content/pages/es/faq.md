@@ -1,5 +1,6 @@
 ---
 key: faq
+order: 3
 menu: FAQs
 title: Preguntas y Respuestas
 ---

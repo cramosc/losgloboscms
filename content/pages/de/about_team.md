@@ -1,5 +1,6 @@
 ---
 key: about_team
+order: 23
 menu: Unser Team
 title: Unser Team
 ---

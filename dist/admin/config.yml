@@ -46,6 +46,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Key", name: "key", widget: "string"}
+      - {label: "Order", name: "order", widget: "number"}
       - {label: "Menu entry", name: "menu", widget: "string"}
       - {label: "Title", name: "title", widget: "string", required: false}
       - {label: "Body", name: "body", widget: "markdown", required: false}
@@ -59,6 +60,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Key", name: "key", widget: "string"}
+      - {label: "Order", name: "order", widget: "number"}
       - {label: "Menu entry", name: "menu", widget: "string"}
       - {label: "Title", name: "title", widget: "string", required: false}
       - {label: "Body", name: "body", widget: "markdown", required: false}

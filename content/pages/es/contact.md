@@ -1,5 +1,6 @@
 ---
 key: contact
+order: 4
 menu: Contacto
 title: Contacto
 ---

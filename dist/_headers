@@ -1,2 +1,4 @@
 /l10n.json
     Access-Control-Allow-Origin: *
+/content/*
+    Access-Control-Allow-Origin: *

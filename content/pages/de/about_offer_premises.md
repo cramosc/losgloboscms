@@ -11,3 +11,5 @@ Die Kinder können sich in mehreren Bereichen und Räumen ausleben:
  - 2 Schlafräume
 
  - 1 Küchenbereich mit Essplatz
+
+![](http://losglobos.de/img/premises.jpg)

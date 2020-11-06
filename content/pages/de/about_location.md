@@ -23,3 +23,5 @@ Fraunhoferstraße
 Tram 16, 18 und 17  
 Haltestelle Müllerstraße  
 (ca. 5 Min. Gehweg)
+
+![](http://losglobos.de/img/location.jpg)

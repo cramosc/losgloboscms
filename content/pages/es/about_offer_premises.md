@@ -11,3 +11,5 @@ Los Globos dispone de:
 - 2 dormitorios 
 
 - 1 cocina con comedor
+
+![](http://losglobos.de/img/premises.jpg)

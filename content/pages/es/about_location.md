@@ -18,3 +18,5 @@ Parada Sendlinger Tor o Fraunhoferstraße
 Tranvía 16, 17 y 18  
 Parada Müllerstraße  
 (unos. 5 Min. a pie)
+
+![](http://losglobos.de/img/location.jpg)

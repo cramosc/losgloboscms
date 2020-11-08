@@ -43,7 +43,7 @@ title: Unsere Kosten
 
 Gefördert durch:
 
-* <img src="img/landeshauptstadt_muenchen.gif" alt="Landeshauptstadt München"/>
+* ![Landeshauptstadt München](/img/landeshauptstadt_muenchen.gif)
   * Referat für Bildung und Sport
   * [Bezirksausschuss II](https://www.muenchen.de/rathaus/Stadtpolitik/Bezirksausschuesse.html)
 * Freistaat Bayern

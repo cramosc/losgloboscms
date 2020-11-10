@@ -11,22 +11,6 @@ media_folder: "img"
 logo_url: http://losglobos.de/img/logo.jpg
 
 collections:
-  - name: "section"
-    label: "Section"
-    folder: "_sections" # The path to the folder where the documents are stored
-    extension: "json"
-    format: "json"
-    create: true
-    slug: "{{slug}}"
-    fields:
-      - {label: "Key", name: "title", widget: "string"}
-      - {label: "Menu Deutsch", name: "menu_de", widget: "string"}
-      - {label: "Menu Spanisch", name: "menu_es", widget: "string"}
-      - {label: "Title Deutsch", name: "title_de", widget: "string"}
-      - {label: "Body Deutsch", name: "body_de", widget: "markdown"}
-      - {label: "Title Spanisch", name: "title_es", widget: "string"}
-      - {label: "Body Spanisch", name: "body_es", widget: "markdown"}
-
   - label: "Layout"
     name: "layout"
     files:

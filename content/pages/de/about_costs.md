@@ -43,7 +43,7 @@ title: Unsere Kosten
 
 Gefördert durch:
 
-* ![Landeshauptstadt München](/img/landeshauptstadt_muenchen.gif)
+* ![Landeshauptstadt München](http://losglobos.de/img/landeshauptstadt_muenchen.gif)
   * Referat für Bildung und Sport
   * [Bezirksausschuss II](https://www.muenchen.de/rathaus/Stadtpolitik/Bezirksausschuesse.html)
 * Freistaat Bayern

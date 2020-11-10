@@ -1,6 +1,10 @@
 backend:
   name: git-gateway
   branch: master
+  commit_messages:
+    create: Create {{collection}} “{{slug}}” [deploy]
+    update: Update {{collection}} “{{slug}}” [deploy]
+    delete: Delete {{collection}} “{{slug}}” [deploy]
 
 media_folder: "img"
 

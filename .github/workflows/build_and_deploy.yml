@@ -20,3 +20,4 @@ jobs:
     - run: bash scripts/deploy.sh
       env:
         FTP_CREDENTIALS: ${{ secrets.FTP_CREDENTIALS }}
+        FTP_SERVER: ${{ secrets.FTP_SERVER }}

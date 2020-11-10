@@ -10,7 +10,7 @@ jobs:
   build_and_deploy:
     name: Build and deploy page
     runs-on: ubuntu-latest
-    if: "contains(github.event.head_commit.message, '[deploy]')"
+    if: "github.event_name == 'workflow_dispatch' || contains(github.event.head_commit.message, '[deploy]')"
 
     steps:
     - uses: actions/checkout@v2

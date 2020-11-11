@@ -14,10 +14,11 @@ curl -s -u "$FTP_CREDENTIALS" -T scripts/extractor.php "$FTP_SERVER/extractor.ph
 
 echo "executing php script..."
 curl "http://losglobos.de/extractor.php"
+echo ""
 
 echo "clean up..."
-curl -s -u "$FTP_CREDENTIALS" "$FTP_SERVER" -Q 'DELE out.tar.gz'
-curl -s -u "$FTP_CREDENTIALS" "$FTP_SERVER" -Q 'DELE out.tar'
-curl -s -u "$FTP_CREDENTIALS" "$FTP_SERVER" -Q 'DELE extractor.php'
+curl -s -u "$FTP_CREDENTIALS" "$FTP_SERVER" -Q 'DELE out.tar.gz' > /dev/null
+curl -s -u "$FTP_CREDENTIALS" "$FTP_SERVER" -Q 'DELE out.tar' > /dev/null
+curl -s -u "$FTP_CREDENTIALS" "$FTP_SERVER" -Q 'DELE extractor.php' > /dev/null
 
 echo "Deployment done!"

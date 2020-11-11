@@ -4,7 +4,7 @@ order: 23
 menu: Nuestro Equipo
 title: Nuestro Equipo
 ---
-### **Ramona** (Leitung). Deutsche Erzieherin - Kindergarten
+### **Ramona** (Leitung). Educadora alemana - Educación infantil
 
 ![](http://losglobos.de/img/profe_1.jpg)
 
@@ -14,7 +14,7 @@ Im September 2013 hat mich Los Globos in München herzlich empfangen. Seit dem a
 Ich freue mich auf viele weitere spannende und erlebnisreiche Tage und hoffe jedem einzelnen "Luftballon" eine tolle Kindergartenzeit zu ermöglichen.
 
 
-### **Sara Nicola**. Deutsche Erzieherin - Krippe
+### **Sara Nicola**. Educadora alemana - Guardería
 
 ![](http://losglobos.de/img/profe_2.jpg)
 
@@ -23,7 +23,7 @@ Mir macht die Arbeit in Elterninitiativen besonders viel Spaß, weil ich hierbei
 Das gemeinsame Arbeiten mit den Kindern bereitet mir viel Freude. Es ist ein tolles Gefühl, was man alles bewirken und den Kindern mitgeben kann. Durch meinen dreimonatigen Aufenthalt in Chile ist mir die spanische Sprache noch viel wichtiger geworden, so dass ich mich aus diesem Grund  bewusst für Los Globos entschieden habe. Ich freue mich sehr, dass ich jetzt zum Team dazu gehöre!
 
 
-### **Lola**. Spanische Erzieherin - Kindergarten
+### **Lola**. Educadora española - Educación infantil
 
 ![](http://losglobos.de/img/profe_3.jpg)
 
@@ -33,14 +33,14 @@ Pienso que la enseñanza implica una responsabilidad y a la vez un trabajo de eq
 En esta nueva etapa en alemania quiero aportar mi experiencia como profesora española y fusionar lo mejor  de mi experiencia con las bondades de la docencia Alemana.
 
 
-### **Lorena**. Spanische Erzieherin – Krippe
+### **Lorena**. Educadora española – Guardería
 
 ![](http://losglobos.de/img/profe_4.jpg)
 
 Soy española, concretamente de Talavera de la Reina (Toledo). Llevo cuatro años en la ciudad de Munich y desde pequeña ya tenía vocación por ser maestra, por eso decidí estudiar Magisterio de Educación Infantil y Primaria con la mención de inglés, teniendo desde que terminé la carrera experiencia con los niños. Pienso que la educación es un factor muy importante, ya que enriquece el espíritu, los valores y todo aquello que nos caracteriza como personas. Soy muy flexible, me encanta cantar, jugar, hacer excursiones… pero sobre todo aprender con los niños, ya que cada día juntos aprendemos algo nuevo. Por eso, estoy muy contenta de formar parte del equipo en los globos y aportar mi experiencia.
 
 
-### **Alejandra**. Spanische Erzieherin - Kindergarten
+### **Alejandra**. Educadora española - Educación infantil
 
 ![](http://losglobos.de/img/profe_5.jpg)
 

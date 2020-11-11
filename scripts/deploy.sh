@@ -1,5 +1,16 @@
 #! /usr/bin/env bash
 
+OUT_FILE="out.tar.gz"
+
 cd out
-find * -type f -exec echo Deploying {} ... \; -exec curl -s -u "$FTP_CREDENTIALS" --ftp-create-dirs -T {} "$FTP_SERVER"/{} \; -exec echo Done \;
-cd -
+tar -cvzf "../$OUT_FILE" *
+cd ..
+
+curl -s -u "$FTP_CREDENTIALS" -T "$OUT_FILE" "$FTP_SERVER/$OUT_FILE"
+curl -s -u "$FTP_CREDENTIALS" -T scripts/extractor.php "$FTP_SERVER/extractor.php"
+
+curl -s "http://losglobos.de/extractor.php"
+
+curl -s -u "$FTP_CREDENTIALS" "$FTP_SERVER" -Q 'DELE out.tar.gz'
+curl -s -u "$FTP_CREDENTIALS" "$FTP_SERVER" -Q 'DELE out.tar'
+curl -s -u "$FTP_CREDENTIALS" "$FTP_SERVER" -Q 'DELE extractor.php'

@@ -2,8 +2,9 @@
 
 OUT_FILE="out.tar.gz"
 
+echo "creating tar file..."
 cd out
-tar -cvzf "../$OUT_FILE" *
+tar -czf "../$OUT_FILE" *
 cd ..
 
 echo "uploading tar file..."

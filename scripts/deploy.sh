@@ -13,7 +13,7 @@ echo "uploading php script..."
 curl -s -u "$FTP_CREDENTIALS" -T scripts/extractor.php "$FTP_SERVER/extractor.php"
 
 echo "executing php script..."
-curl "http://losglobos.de/extractor.php"
+curl -s "http://losglobos.de/extractor.php"
 echo ""
 
 echo "clean up..."

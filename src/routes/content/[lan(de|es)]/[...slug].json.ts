@@ -5,7 +5,7 @@ import marked from 'marked';
 export function get(req, res, next) {
     const { lan, slug } = req.params;
 
-    const parsed = matter.read(path.join(process.cwd(), 'content', 'pages', lan, slug.join('_')) + '.md');
+    const parsed = matter.read(path.join(process.cwd(), 'content', 'pages', lan, slug.filter(x => x).join('_')) + '.md');
 
     res.writeHead(200, {
         'Content-Type': 'application/json'

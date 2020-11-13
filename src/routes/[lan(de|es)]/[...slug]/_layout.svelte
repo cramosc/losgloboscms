@@ -2,7 +2,7 @@
     export async function preload({ params }) {
         const { lan, slug } = params;
         const contentUrl = `/content/${lan}`;
-        const path = slug.join('/');
+        const path = slug.filter((x) => x).join('/');
 
         const layout = await this.fetch(`${contentUrl}/layout.json`).then((r) => r.json());
         const news = await this.fetch(`${contentUrl}/news.json`).then((r) => r.json());

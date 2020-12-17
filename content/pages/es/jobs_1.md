@@ -1,44 +1,57 @@
 ---
 key: jobs_1
 order: 51
-menu: Erzieher/-in oder Kinderpfleger/-in
-title: Erzieher/-in oder Kinderpfleger/-in (m, w, d in Vollzeit 39 Stunden/Woche)
+menu: Educador(a) o cuidador(a) de niños
+title: Educador(a) o cuidador(a) de niños (f, m, d, tiempo completo, 39 horas/semana)
 ---
-### Das sind wir:
-                
-* eine kleine Einrichtung mit einem überdurchschnittlichen
-Betreuungsschlüssel, die einen großen Wert auf Teamwork und ein
-familiäres Betriebsklima legt
-* Viele unserer Familien und Erzieher/-innen kommen aus Spanien
-und Lateinamerika und bereichern die tägliche Zusammenarbeit mit
-den Traditionen ihres jeweiligen Kulturkreises.
-                           
+### ¿Quiénes somos?
 
-### Das suchen wir:
+* una pequeña institución con una relación cuidador-niño
+(Betreuungsschlüssel) por debajo del promedio: nuestros
+educadores asisten menos niños en comparación a una institución
+promedio.
+* padres y educadores nativos de Alemania, España y Latinoamérica,
+comprometidos con el bilingüismo, porque creemos que las
+tradiciones y formas propias de nuestro acervo cultural, enriquecen
+la cooperación y el trabajo diario.
+¿Qué buscamos?
 
-* eine staatlich abgeschlossene Ausbildung als Erzieher/in oder
-Kinderpfleger/in
-* mit ausgezeichnetem Deutschniveau (muttersprachliches Niveau bzw. Sprachniveau C1). Natürlich ist jede Nationalität willkommen!
-* Spanischkenntnisse sind nicht erforderlich. Falls Du aber Lust hast, neben der Arbeit auch in die spanische Sprache einzutauchen, unterstützen wir Dich gerne.
+### Te buscamos a ti si…
 
-### Das bieten wir dir:
+* has completado una Formación Profesional reconocida por el Estado,
+como Educador(a) o cuidador(a) de niños.
+* el idioma alemán es tu lengua materna, o posees un nivel C1 de
+comprensión del mismo, sin importar tu nacionalidad.
+* aunque no hables español, te gustaría estar en contacto diario con
+el idioma y la cultura de países que lo hablan.
 
-* eine phantastische Gemeinschaft mit viel Raum für eigeninitiatives
-Arbeiten, Ideen und Projekte
-* eine angenehme Arbeitsatmosphäre in einem engagierten Team
-* tarifliche Vergütung inkl. Sozialleistungen (TVöD Land)
-* weitere tolle Benefits wie z.B. Münchenzulage, Arbeitsmarktzulage und Fahrtkostenzuschuss
-* jährlichen Fort- und Weiterbildungsmöglichkeiten
-* viele gemeinsame Feste (Sommerfest, Weihnachtsfest, Teamtage, etc.).
+### ¿Qué ofrecemos?
 
-### Das werden deine Aufgaben:
+* una fantástica y creativa comunidad, con mucho espacio para tus
+iniciativas, proyectos e ideas propias.
+* un equipo comprometido, en una atmósfera de trabajo agradable y
+familiar.
+* remuneración según tarifa, incluidas prestaciones sociales (TVöD
+Bayern)
+* beneficios adicionales como bonos (München-Zulage,
+Arbeitsmarktzulage), y subsidio para gastos de transporte, entre
+otros.
+* la posibilidad de realizar cursos de capacitación anuales.
+* y también muchas fiestas (festival de Navidad, fiesta de verano,
+jornadas de equipo, etc.).
 
-* Arbeit sowohl im Kindergarten als auch in der Krippengruppe.
-* Da unsere Kinder aber gerne zusammen unterwegs sind und wir den Austausch zwischen den Altersgruppen schätzen, freuen wir uns über Bewerber/innen-(m,w,d), die sich in beiden Arbeitsbereichen wohl fühlen.
+### ¿Cuál será tu trabajo?
 
+* cuidar, atender, asistir, e instruir a nuestros niños, tanto en la
+guardería (de 1 a 3 años de edad), como en el preescolar (de 3 a 6
+años de edad), ya que no solo valoramos el intercambio entre
+grupos etarios, sino que nos gusta hacer juntos muchas actividades
+al aire libre. Por ello nos alegramos de tu postulación, si te sientes
+bien trabajando en ambos grupos.
 
-Bitte sende uns Deine aussagefähige Bewerbung ausschließlich in digitaler Form an:
+Si eres tú quién buscamos, postúlate enviando un email a:
 
 [jobs@losglobos.de](mailto:jobs@losglobos.de)
-                
-Von Bewerbungen die nicht dem angeforderten Profil entsprechen bitten wir abzusehen.
+
+Te rogamos no envíes tu curriculum si no corresponde con el perfil
+solicitado.

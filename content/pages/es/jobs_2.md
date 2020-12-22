@@ -1,42 +1,59 @@
 ---
 key: jobs_2
 order: 52
-menu: Kinderpfleger/-in
-title: Kinderpfleger/-in (in Vollzeit 39h/Woche)
+menu: Cuidador(a) de niños
+title: Educador(a) o cuidador(a) de niños (f, m, d, tiempo completo, 39 horas/semana)
 ---
-<!-- Unsere deutsch-spanische Kindertagesstätte Los Globos e.V. sucht zum nächstmöglichen Zeitpunkt eine/n -->
+# Buscamos refuerzos de inmediato
 
-### Derzeit gibt es keine offenen Stellen.
+### ¿Quiénes somos?
 
-Gerne kannst du dich aber initiativ bewerben, wenn dir folgende Aufgaben zusprechen:
+* una pequeña institución con una relación cuidador-niño
+(Betreuungsschlüssel) por debajo del promedio: nuestros
+educadores asisten menos niños en comparación a una institución
+promedio.
+* padres y educadores nativos de Alemania, España y Latinoamérica,
+comprometidos con el bilingüismo, porque creemos que las
+tradiciones y formas propias de nuestro acervo cultural, enriquecen
+la cooperación y el trabajo diario.
+¿Qué buscamos?
 
-## Kinderpfleger/-in (w, m, d in Vollzeit 39h/Woche)
-                
-### Das bieten wir Dir:
-                
-* eine interessante und abwechslungsreiche Tätigkeit mit hoher Eigenverantwortung und vielfachen Entwicklungs- und Gestaltungsmöglichkeiten
-* kleine Gruppen
-* Arbeiten in einem herzlichen und multikulturellen Team
-* nette Elternschaft aus verschiedenen Ländern
-* unterschiedliche Projekte mit viel Raum für Deine Ideen und Vorschläge
-* einen überdurchschnittlichen Betreuungsschlüssel
-* tarifliche Vergütung inkl. Sozialleistungen (TVÖD Land)
-           
+### Te buscamos a ti si…
 
-### Das bringst Du mit:
+* has completado una Formación Profesional reconocida por el Estado,
+como Educador(a) o cuidador(a) de niños.
+* el idioma alemán es tu lengua materna, o posees un nivel C1 de
+comprensión del mismo, sin importar tu nacionalidad.
+* aunque no hables español, te gustaría estar en contacto diario con
+el idioma y la cultura de países que lo hablan.
 
-* eine staatlich abgeschlossene Ausbildung als Erzieher/in oder Kinderpfleger/in
-* Du legst großen Wert auf Teamwork und ein gutes Betriebsklima
-* Ausgezeichnete Deutsch-oder Spanischkenntnisse
-                
+### ¿Qué ofrecemos?
 
-### Das werden Deine Aufgaben:
+* una fantástica y creativa comunidad, con mucho espacio para tus
+iniciativas, proyectos e ideas propias.
+* un equipo comprometido, en una atmósfera de trabajo agradable y
+familiar.
+* remuneración según tarifa, incluidas prestaciones sociales (TVöD
+Bayern)
+* beneficios adicionales como bonos (München-Zulage,
+Arbeitsmarktzulage), y subsidio para gastos de transporte, entre
+otros.
+* la posibilidad de realizar cursos de capacitación anuales.
+* y también muchas fiestas (festival de Navidad, fiesta de verano,
+jornadas de equipo, etc.).
 
-* Arbeit sowohl im Kindergarten als auch in der Krippengruppe
-             
+### ¿Cuál será tu trabajo?
 
-Bitte sende uns Deine aussagefähige Bewerbung ausschließlich in digitaler Form an:
+* cuidar, atender, asistir, e instruir a nuestros niños, tanto en la
+guardería (de 1 a 3 años de edad), como en el preescolar (de 3 a 6
+años de edad), ya que no solo valoramos el intercambio entre
+grupos etarios, sino que nos gusta hacer juntos muchas actividades
+al aire libre. Por ello nos alegramos de tu postulación, si te sientes
+bien trabajando en ambos grupos.
+
+Si eres tú quién buscamos, postúlate enviando un email a:
 
 [jobs@losglobos.de](mailto:jobs@losglobos.de)
-                
-Von Bewerbungen die nicht dem angeforderten Profil entsprechen bitten wir abzusehen.
+
+Te rogamos no envíes tu curriculum si no corresponde con el perfil
+solicitado.

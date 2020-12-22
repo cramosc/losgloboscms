@@ -31,6 +31,8 @@
         transition: width 0.2s ease-out;
     }
     .news {
+        width: 364px;
+        box-sizing: border-box;
         padding: 32px 16px 16px 32px;
         background-color: #ffa140;
     }

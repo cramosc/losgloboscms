@@ -2,38 +2,42 @@
 key: jobs_2
 order: 52
 menu: Kinderpfleger/-in
-title: Kinderpfleger/-in (in Vollzeit 39h/Woche)
+title: Erzieher/-in oder Kinderpfleger/-in (m, w, d in Vollzeit 39 Stunden/Woche)
 ---
-<!-- Unsere deutsch-spanische Kindertagesstätte Los Globos e.V. sucht zum nächstmöglichen Zeitpunkt eine/n -->
+# Wir suchen ab sofort Verstärkung
 
-### Derzeit gibt es keine offenen Stellen.
-
-Gerne kannst du dich aber initiativ bewerben, wenn dir folgende Aufgaben zusprechen:
-
-## Kinderpfleger/-in (w, m, d in Vollzeit 39h/Woche)
+### Das sind wir:
                 
-### Das bieten wir Dir:
-                
-* eine interessante und abwechslungsreiche Tätigkeit mit hoher Eigenverantwortung und vielfachen Entwicklungs- und Gestaltungsmöglichkeiten
-* kleine Gruppen
-* Arbeiten in einem herzlichen und multikulturellen Team
-* nette Elternschaft aus verschiedenen Ländern
-* unterschiedliche Projekte mit viel Raum für Deine Ideen und Vorschläge
-* einen überdurchschnittlichen Betreuungsschlüssel
-* tarifliche Vergütung inkl. Sozialleistungen (TVÖD Land)
-           
+* eine kleine Einrichtung mit einem überdurchschnittlichen
+Betreuungsschlüssel, die einen großen Wert auf Teamwork und ein
+familiäres Betriebsklima legt
+* Viele unserer Familien und Erzieher/-innen kommen aus Spanien
+und Lateinamerika und bereichern die tägliche Zusammenarbeit mit
+den Traditionen ihres jeweiligen Kulturkreises.
+                           
 
-### Das bringst Du mit:
+### Das suchen wir:
 
-* eine staatlich abgeschlossene Ausbildung als Erzieher/in oder Kinderpfleger/in
-* Du legst großen Wert auf Teamwork und ein gutes Betriebsklima
-* Ausgezeichnete Deutsch-oder Spanischkenntnisse
-                
+* eine staatlich abgeschlossene Ausbildung als Erzieher/in oder
+Kinderpfleger/in
+* mit ausgezeichnetem Deutschniveau (muttersprachliches Niveau bzw. Sprachniveau C1). Natürlich ist jede Nationalität willkommen!
+* Spanischkenntnisse sind nicht erforderlich. Falls Du aber Lust hast, neben der Arbeit auch in die spanische Sprache einzutauchen, unterstützen wir Dich gerne.
 
-### Das werden Deine Aufgaben:
+### Das bieten wir dir:
 
-* Arbeit sowohl im Kindergarten als auch in der Krippengruppe
-             
+* eine phantastische Gemeinschaft mit viel Raum für eigeninitiatives
+Arbeiten, Ideen und Projekte
+* eine angenehme Arbeitsatmosphäre in einem engagierten Team
+* tarifliche Vergütung inkl. Sozialleistungen (TVöD Land)
+* weitere tolle Benefits wie z.B. Münchenzulage, Arbeitsmarktzulage und Fahrtkostenzuschuss
+* jährlichen Fort- und Weiterbildungsmöglichkeiten
+* viele gemeinsame Feste (Sommerfest, Weihnachtsfest, Teamtage, etc.).
+
+### Das werden deine Aufgaben:
+
+* Arbeit sowohl im Kindergarten als auch in der Krippengruppe.
+* Da unsere Kinder aber gerne zusammen unterwegs sind und wir den Austausch zwischen den Altersgruppen schätzen, freuen wir uns über Bewerber/innen-(m,w,d), die sich in beiden Arbeitsbereichen wohl fühlen.
+
 
 Bitte sende uns Deine aussagefähige Bewerbung ausschließlich in digitaler Form an:
 

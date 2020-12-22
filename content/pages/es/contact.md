@@ -15,8 +15,6 @@ Queríamos destacar que tras la fachada de Los Globos e.V. estamos padres con un
 
 #### Solicitud de plaza:
 
-Nuestras plazas para el año 2019/2020 están ya todas ocupadas.
-
-Favor de rellenar este [formulario](https://goo.gl/forms/UW6aSYz74FfYWLZo1).
+Si usted tiene interés en solicitar una plaza, puede realizarlo en cualquier momento rellenando el siguiente [formulario](https://goo.gl/forms/UW6aSYz74FfYWLZo1).
 
 Email: [kinderanmeldung@losglobos.de](mailto:kinderanmeldung@losglobos.de)

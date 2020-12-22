@@ -6,9 +6,7 @@ title: Unsere "Frequently Asked Questions"
 ---
 #### Wie kann ich mein Kind bei Los Globos anmelden?
 
-Vielen Dank für Ihr Interesse an Los Globos. Unsere Plätze für das Kitajahr 2019/2020 sind bereits vergeben. Sie können sich jedoch gerne auf unserer Warteliste eintragen.
-
-Wenn Sie sich für einen Platz bei uns interessieren, können Sie sich jederzeit auf unsere Warteliste setzen lassen. Bitte füllen Sie dieses [Formular](https://goo.gl/forms/UW6aSYz74FfYWLZo1) aus
+Wenn Sie sich für einen Platz bei uns interessieren, können Sie jederzeit folgendes [Formular](https://goo.gl/forms/UW6aSYz74FfYWLZo1) ausfüllen.
 
 Wir informieren Sie dann zu gegebener Zeit über freie Plätze. Wir bitten jedoch alle Eltern, die Interesse an einem Platz bei Los Globos haben und auf der Warteliste bleiben wollen, sich nach einem Jahr wieder bei uns zu melden.
 

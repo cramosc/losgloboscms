@@ -15,8 +15,6 @@ Hinter Los Globos e.V. stehen Eltern mit Berufen und Arbeitsplätzen, weshalb wi
 
 #### Kinderanmeldungen: 
 
-Vielen Dank für Ihr Interesse an Los Globos. Unsere Plätze für das Kitajahr 2019/2020 sind bereits vergeben. Sie können sich jedoch gerne auf unserer Warteliste eintragen.
-
-Bitte füllen Sie dieses [Formular](https://goo.gl/forms/UW6aSYz74FfYWLZo1) aus.
+Wenn Sie sich für einen Platz bei uns interessieren, können Sie jederzeit folgendes [Formular](https://goo.gl/forms/UW6aSYz74FfYWLZo1) ausfüllen.
 
 E-Mail: [kinderanmeldung@losglobos.de](mailto:kinderanmeldung@losglobos.de)

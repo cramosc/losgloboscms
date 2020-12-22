@@ -1,9 +1,11 @@
 ---
 key: jobs_1
 order: 51
-menu: Erzieher/-in oder Kinderpfleger/-in
+menu: Erzieher/-in
 title: Erzieher/-in oder Kinderpfleger/-in (m, w, d in Vollzeit 39 Stunden/Woche)
 ---
+# Wir suchen ab sofort Verstärkung
+
 ### Das sind wir:
                 
 * eine kleine Einrichtung mit einem überdurchschnittlichen

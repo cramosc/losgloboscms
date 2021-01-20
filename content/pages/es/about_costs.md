@@ -21,7 +21,7 @@ title: Nuestros Precios
 3. Pagos adicionales (guardería y educación infantil)
 
    * Cuota de la asociación: 88 Euro
-   * Comidas: 70 Euro
+   * Comidas: 75 Euro
 
 4. Pagos únicos tras la admisión
 

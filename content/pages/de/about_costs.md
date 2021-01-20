@@ -21,7 +21,7 @@ title: Unsere Kosten
 3. Weitere monatliche Zahlungen (Krippe und Kindergarten)
 
    * Vereinsbeitrag: 88 Euro
-   * Essensgeld: 70 Euro
+   * Essensgeld: 75 Euro
 
 4. Einmalige Zahlungen bei Aufnahme
 

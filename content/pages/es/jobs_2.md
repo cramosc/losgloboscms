@@ -4,8 +4,6 @@ order: 52
 menu: Cuidador(a) de niños
 title: Educador(a) o cuidador(a) de niños (f, m, d, tiempo completo, 39 horas/semana)
 ---
-# Buscamos refuerzos de inmediato
-
 ### ¿Quiénes somos?
 
 * una pequeña institución con una relación cuidador-niño

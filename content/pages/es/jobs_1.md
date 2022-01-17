@@ -49,7 +49,7 @@ grupos etarios, sino que nos gusta hacer juntos muchas actividades
 al aire libre. Por ello nos alegramos de tu postulación, si te sientes
 bien trabajando en ambos grupos.
 
-Si eres tú quién buscamos, postúlate enviando un email a:
+Si eres tú quién buscamos, postúlate hasta el 05.02.2022 enviando un email a:
 
 [jobs@losglobos.de](mailto:jobs@losglobos.de)
 

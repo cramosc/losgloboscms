@@ -2,7 +2,9 @@
 key: jobs_1
 order: 51
 menu: Erzieher/-in
-title: Erzieher/-in oder Kinderpfleger/-in (m, w, d in Vollzeit 39 Stunden/Woche)
+title: Die spanisch-deutsche KITA Los Globos im Glockenbachviertel sucht
+  Verstärkung! Erzieher/-in oder Kinderpfleger/-in (m, w, d in Vollzeit 39
+  Stunden/Woche)
 ---
 ### Das sind wir:
                 
@@ -37,7 +39,7 @@ Arbeiten, Ideen und Projekte
 * Da unsere Kinder aber gerne zusammen unterwegs sind und wir den Austausch zwischen den Altersgruppen schätzen, freuen wir uns über Bewerber/innen-(m,w,d), die sich in beiden Arbeitsbereichen wohl fühlen.
 
 
-Bitte sende uns Deine aussagefähige Bewerbung ausschließlich in digitaler Form an:
+Wir freuen uns über Deine Bewerbung bis 05.02.2022, an:
 
 [jobs@losglobos.de](mailto:jobs@losglobos.de)
                 

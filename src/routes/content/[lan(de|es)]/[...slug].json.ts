@@ -1,6 +1,6 @@
 import path from 'path';
 import matter from 'gray-matter';
-import marked from 'marked';
+import { marked } from 'marked';
 
 export function get(req, res, next) {
     const { lan, slug } = req.params;

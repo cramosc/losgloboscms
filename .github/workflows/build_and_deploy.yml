@@ -3,14 +3,11 @@ name: Build and Deploy
 on: 
   workflow_dispatch:
   push:
-    branches:
-      - master
 
 jobs:
   build_and_deploy:
     name: Build and deploy page
     runs-on: ubuntu-latest
-    if: "github.event_name == 'workflow_dispatch' || contains(github.event.head_commit.message, '[deploy]')"
 
     steps:
     - uses: actions/checkout@v2
@@ -19,8 +16,4 @@ jobs:
         node-version: '12.x'
     - run: yarn
     - run: yarn export out
-    - run: cp out/de/home/index.html out/index.html
-    - run: bash scripts/deploy.sh
-      env:
-        FTP_CREDENTIALS: ${{ secrets.FTP_CREDENTIALS }}
-        FTP_SERVER: ${{ secrets.FTP_SERVER }}
+    - run: cat out/de/home/index.html

@@ -2,7 +2,7 @@
 key: jobs_3
 order: 53
 menu: SPS-Praktikant/in
-title: SPS-Praktikant/in für 2021/2021 gesucht (Deutschsprachig oder spanischsprachig)
+title: SPS-Praktikant/in für 2022/2023 gesucht (Deutschsprachig oder spanischsprachig)
 ---
 Für unsere deutsch-spanische KiTa in der Münchner Isarvorstadt suchen wir ab September eine Praktikantin/einen Praktikanten (Sozialpädagogisches Seminar).
 

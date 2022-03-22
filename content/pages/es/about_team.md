@@ -14,7 +14,7 @@ Im September 2013 hat mich Los Globos in München herzlich empfangen. Seit dem a
 Ich freue mich auf viele weitere spannende und erlebnisreiche Tage und hoffe jedem einzelnen "Luftballon" eine tolle Kindergartenzeit zu ermöglichen.
 
 
-### **Sara Nicola**. Educadora alemana - Guardería
+### **Sara Nicola**. Educadora alemana - Guardería (Baja por maternidad)
 
 ![](http://losglobos.de/img/profe_2.jpg)
 
@@ -33,7 +33,7 @@ Pienso que la enseñanza implica una responsabilidad y a la vez un trabajo de eq
 En esta nueva etapa en alemania quiero aportar mi experiencia como profesora española y fusionar lo mejor  de mi experiencia con las bondades de la docencia Alemana.
 
 
-### **Lorena**. Educadora española – Guardería
+### **Lorena**. Educadora española – Guardería (Baja por maternidad)
 
 ![](http://losglobos.de/img/profe_4.jpg)
 
@@ -54,26 +54,4 @@ Estoy muy contenta de poder trabajar y pertenecer al equipo de los Globos, ya qu
 
 ![](http://losglobos.de/img/profe_6.jpg)
 
-Ich bin in München geboren und aufgewachsen, doch nach meinem Abitur 2011 zog es mich hinaus in die
-Welt. Ich zog für ein halbes Jahr nach Benin in Westafrika, wo ich ehrenamtlich in einem Kindergarten
-und abends an einer Schule arbeitete. Diese wichtige Zeit brachte mich dazu Erziehungswissenschaft zu
-studieren. An der WWU in Münster lagen meine Interessenschwerpunkte vor allem auf Flucht und
-Migration, sowie auf alternativen Schul- und Erziehungsformen. Neben dem Studium unterrichtete ich
-Geflüchtete, die sich für eine Ausbildung hier in Deutschland vorbereiteten und übernahm
-Sprachpatenschaften für geflüchtete Menschen.
-Schon immer interessiere ich mich sehr für Menschen anderer Herkunft und für fremde Sprachen. Nach
-dem Studium wollte ich deshalb Lateinamerika kennenlernen und Spanisch lernen und flog nach México,
-von wo aus ich Mittel-und Südamerika erkunden wollte. Was ich nicht gedacht hätte, ist, dass ich fast 2
-Jahre in México blieb und nicht weiterreiste. Ich tauchte völlig ein in dieses faszinierende Land und lernte
-die spanische Sprache, die mexikanische Kultur, Musik und Gastronomie lieben.
-Als ich 2020 nach München zurückkehrte, entdeckte ich Los Globos, wo sich plötzlich all meine
-Interessen auf eine magische Art und so selbstverständlich verbinden ließen. Ich bin so froh hier zu sein
-und mit den globitos Zeit zu verbringen, von ihnen und mit ihnen zu lernen und sie in ihrer Entwicklung
-begleiten zu dürfen. Jeden Tag bringen sie mich zum staunen und zum lachen und ich gehe jeden Tag mit
-großer Freude zur Arbeit. Um die Kinder stets bestmöglich unterstützen zu können, bilde ich mich voller
-Begeisterung pädagogisch vielseitig fort und bin ebenso sehr dankbar dafür, täglich so viel von meinen
-erfahreneren Kolleginnen lernen zu dürfen.
-Ich würde mich als eine fröhliche, geduldige, flexible und sehr empathische Person beschreiben und hoffe
-mit meiner Art meinen Teil zu der Globos-Familie beitragen zu können. Mit diesem tollen, kompetenten
-und liebevollen Team, PraktikantInnen von überall her, den Kindern, die so wunderbar leicht beide
-Sprachen beherrschen, habe ich ständig das Gefühl mitten in München auf Reisen zu sein.
+Schon immer interessiere ich mich sehr für Menschen anderer Herkunft und für fremde Sprachen. Nach meinem Studium in Erziehungswissenschaften wollte ich deshalb Lateinamerika kennenlernen und Spanisch lernen und flog nach México. Ich tauchte völlig ein in dieses faszinierende Land und lernte die spanische Sprache, die mexikanische Kultur, Musik und Gastronomie lieben. Als ich 2020 nach München zurückkehrte, entdeckte ich Los Globos, wo sich plötzlich all meine Interessen auf eine magische Art und so selbstverständlich verbinden ließen. Ich bin so froh hier zu sein und mit den Globitos Zeit zu verbringen, von ihnen und mit ihnen zu lernen und sie in ihrer Entwicklung begleiten zu dürfen. Jeden Tag bringen sie mich zum Staunen und zum Lachen und ich gehe jeden Tag mit großer Freude zur Arbeit. Um die Kinder stets bestmöglich unterstützen zu können, bilde ich mich voller Begeisterung pädagogisch vielseitig fort und bin ebenso sehr dankbar dafür, täglich so viel von meinen erfahrenen Kolleginnen lernen zu dürfen.

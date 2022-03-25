@@ -1,19 +1,19 @@
 <script context="module" lang="ts">
-    export async function preload({ params }) {
+    export async function load({ params, fetch }) {
         const { lan, slug } = params;
         const contentUrl = `/content/${lan}`;
-        const path = slug.filter((x) => x).join('/');
+        const path = slug.replace(/\/$/, '');
 
-        const layout = await this.fetch(`${contentUrl}/layout.json`).then((r) => r.json());
-        const news = await this.fetch(`${contentUrl}/news.json`).then((r) => r.json());
-        const sitemap = await this.fetch(`${contentUrl}/sitemap.json`).then((r) => r.json());
+        const layout = await fetch(`${contentUrl}/layout.json`).then((r) => r.json());
+        const news = await fetch(`${contentUrl}/news.json`).then((r) => r.json());
+        const sitemap = await fetch(`${contentUrl}/sitemap.json`).then((r) => r.json());
         const links = (sitemap[path] || []).map(([link, menu]) => ({
             link: `${path}/${link}`,
             menu,
         }));
         const homeLinks = sitemap[''].map(([link, menu]) => ({ link, menu }));
 
-        return { lan, links, path, homeLinks, layout, news };
+        return { props: {lan, links, path, homeLinks, layout, news } };
     }
 </script>
 
@@ -43,7 +43,7 @@
             <slot />
             <nav>
                 {#each links as { link, menu }}
-                    <a class:selected={link === path} href={`${lan}/${link}`}>{menu}</a>
+                    <a class:selected={link === path} href={`/${lan}/${link}`}>{menu}</a>
                 {/each}
             </nav>
         </main>

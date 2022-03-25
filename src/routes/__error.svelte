@@ -1,8 +1,16 @@
+<script context="module" lang="ts">
+	export function load({ status, error }) {
+		return {
+			props: { status, error }
+		};
+	}
+</script>
+
 <script lang="ts">
+	import { dev } from '$app/env';
+
 	export let status: number;
 	export let error: Error;
-
-	const dev = process.env.NODE_ENV === 'development';
 </script>
 
 <style>

@@ -17,8 +17,9 @@ jobs:
     - uses: actions/setup-node@v1
       with:
         node-version: '12.x'
-    - run: yarn
-    - run: yarn export out
+    - run: yarn install --frozen-lockfile
+    - run: yarn build
+    - run: rm -rf out/content
     - run: cp out/de/home/index.html out/index.html
     - run: bash scripts/deploy.sh
       env:

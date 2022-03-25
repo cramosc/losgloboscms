@@ -3,6 +3,7 @@
 OUT_FILE="out.tar.gz"
 
 echo "creating tar file..."
+rm -f "$OUT_FILE"
 cd out
 tar -czf "../$OUT_FILE" *
 cd ..

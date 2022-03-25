@@ -7,9 +7,9 @@ const config = {
 
 	kit: {
 		adapter: adapter({ pages: 'out' }),
-        prerender: {
-            default: true
-        },
+		prerender: {
+			default: true
+		},
 		trailingSlash: 'always',
 		browser: {
 			router: false

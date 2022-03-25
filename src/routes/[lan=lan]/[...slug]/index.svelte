@@ -1,9 +1,10 @@
 <script context="module" lang="ts">
-    export async function preload({ params }) {
+    export async function load({ params, fetch }) {
         const { lan, slug } = params;
         const contentUrl = `/content/${lan}`;
-        const path = slug.filter((x) => x).join('/');
-        return await this.fetch(`${contentUrl}/${path}.json`).then((r) => r.json());
+        const path = slug.replace(/\/$/, '');
+        const props = await fetch(`${contentUrl}/${path}.json`).then((r) => r.json());
+        return { props };
     }
 </script>
 

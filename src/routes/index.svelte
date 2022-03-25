@@ -1,5 +1,8 @@
 <script context="module">
-	export async function preload() {
-        return this.redirect(302, 'de/home');
+	export async function load() {
+        return {
+			status: 302, 
+			redirect: '/de/home'
+		};
 	}
 </script>

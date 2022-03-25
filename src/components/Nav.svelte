@@ -12,12 +12,12 @@
 </script>
 
 <div class="header" on:click={() => (menuOpen = false)}>
-    <a class="logo" href={`${lan}/home`}><img src="img/logo.jpg" alt="Los Globos e.V." /></a>
+    <a class="logo" href={`/${lan}/home`}><img src="/img/logo.jpg" alt="Los Globos e.V." /></a>
     <nav class:open={menuOpen}>
         {#each homeLinks as { link, menu }}
-            <a class:selected={path.startsWith(link)} href={`${lan}/${link}`}>{menu}</a>
+            <a class:selected={path.startsWith(link)} href={`/${lan}/${link}`}>{menu}</a>
         {/each}
-        <a href={`${swithLanguage[lan]}/${path}`}>{switchLanguageString[lan]}</a>
+        <a href={`/${swithLanguage[lan]}/${path}`}>{switchLanguageString[lan]}</a>
     </nav>
     <button type="button" class="navbar-toggle-mobile" on:click|stopPropagation={() => (menuOpen = !menuOpen)}>
         <span class="icon-bar" />

@@ -2,8 +2,8 @@ import path from 'path';
 import matter from 'gray-matter';
 import fs from 'fs';
 
-export function get(req, res, next) {
-    const { lan } = req.params;
+export function get({ params }) {
+    const { lan } = params;
 
     const dirPath = path.join(process.cwd(), 'content', 'pages', lan);
 
@@ -18,9 +18,9 @@ export function get(req, res, next) {
             [k]: [...(o[k] || []), [s, menu]]
         }), {});
 
-    res.writeHead(200, {
-        'Content-Type': 'application/json'
-    });
-
-    res.end(JSON.stringify(sitemap));
+    return {
+        status: 200,
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(sitemap)
+    }
 }

@@ -2,6 +2,7 @@
   "name": "los-globos",
   "description": "Web page for Los Globos e.V.",
   "version": "0.0.1",
+  "type": "module",
   "scripts": {
     "dev": "sapper dev",
     "build": "sapper build",

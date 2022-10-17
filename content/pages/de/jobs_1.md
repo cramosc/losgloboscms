@@ -1,6 +1,6 @@
 ---
 key: jobs_1
-order: 51
+order: 52
 menu: Erzieher/-in
 title: Die spanisch-deutsche KITA Los Globos im Glockenbachviertel sucht
   Verstärkung! Erzieher/-in oder Kinderpfleger/-in (m, w, d in Vollzeit und

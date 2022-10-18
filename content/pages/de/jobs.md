@@ -1,5 +1,5 @@
 ---
 key: jobs
-order: 5
+order: 3
 menu: Jobs
 ---

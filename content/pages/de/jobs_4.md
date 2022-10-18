@@ -1,6 +1,6 @@
 ---
 key: jobs_4
-order: 54
+order: 52
 menu: Praktikant/in
 title: Praktikant/in
 ---
